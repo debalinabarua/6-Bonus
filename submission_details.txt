@@ -1,1 +1,19 @@
-I have completed the course "Deep Learning and Neural Networks" from Coursera. I have attached the certificate in this folder. 
+Name: Debalina Barua
+ID: 20266011
+Coursera email id: debalina756@gmail.com
+
+I have completed the course "Deep Learning and Neural Networks" from Coursera. 
+I have attached the certificate in this folder. 
+This course focuses on the foundational concept of neural networks and deep learning.
+
+Chapter1: Introduction to Deep Learning
+Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
+
+Chapter2: Neural Networks Basics
+Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
+
+Chapter3: Shallow Neural Networks
+Build a neural network with one hidden layer, using forward propagation and backpropagation.
+
+Chapter4: Deep Neural Networks
+Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
